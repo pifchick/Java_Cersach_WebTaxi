@@ -23,4 +23,9 @@ public class MainController {
         model.addAttribute("title", "Заказать такси");
         return "maping";
     }
+    @GetMapping("/registration")
+    public String registration(Model model) {
+        model.addAttribute("title", "Заказать такси");
+        return "registration";
+    }
 }

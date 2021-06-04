@@ -1,10 +1,10 @@
+com/dovezishka/taxi/models/Post.java
+ com.dovezishka.taxi.models.Post
 com/dovezishka/taxi/controllers/BlogController.java
  com.dovezishka.taxi.controllers.BlogController
 com/dovezishka/taxi/TaxiApplication.java
  com.dovezishka.taxi.TaxiApplication
 com/dovezishka/taxi/repo/PostRepository.java
  com.dovezishka.taxi.repo.PostRepository
-com/dovezishka/taxi/models/Post.java
- com.dovezishka.taxi.models.Post
 com/dovezishka/taxi/controllers/MainController.java
  com.dovezishka.taxi.controllers.MainController
