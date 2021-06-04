@@ -1,2 +1,0 @@
-com/taxifinal/proectTaxi/ProectTaxiApplicationTests.java
- com.taxifinal.proectTaxi.ProectTaxiApplicationTests
